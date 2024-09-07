@@ -2,6 +2,7 @@
 
 ## MATLAB Code to Preprocess AruCo Marker
 
+![image](https://github.com/user-attachments/assets/9b0c12d7-2c55-4dcc-9a5e-21a1abe1ab37)
 ```
 function processImage(image_path)
     image = imread(image_path);
